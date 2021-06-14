@@ -1,0 +1,24 @@
+We all log into social media apps today?emails?work attendance sheets ?office sites?etc.
+Username -Password entered and you are logged into the system .
+Now how does a system know whether you have already registered?how does it allow access to you ?
+Here where Databases come into existance ,all your information is collected in those databases.
+
+Let us understand this with a example ,Pinku wants to open a facebook account
+ -He opens his facebook app and the first thing he sees is the create account page -he fills up his name, birthdate,email,password
+ All this information which pinku has entered goes into the database (For now we can call this as a container ),Now Pinku wants to login into facebook
+ - he will now enter only his username and password -now the system will check in the datbase that if the given username and password matches ?
+ if yes then pinku would be allowed to log in(imagine a person searching inside a container for a matching username and password!)
+ 
+ Now it seems easy when i say - the system checks!How will a system check ?We add some comments that tells the database to whether add/remove/update and many more queries
+ 
+ Sql is needed everywhere , data is everywhere and we need to store them !
+ Sql is also used in Clouds, (read about clouds in the article section)
+ 
+ Some terms used in Sql:
+ Tables : A table conists of various rows and columns
+			row - which is horizontal
+			columns-which is verticle
+
+
+ 
+ 
